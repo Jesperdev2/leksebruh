@@ -1,0 +1,88 @@
+*
+{
+    overflow-x: hidden;
+    margin: 0;
+    align-items: center;
+}
+a{
+    color: rgb(255, 0, 0);
+}
+
+a:visited{
+    color: blueviolet;
+}
+
+a:hover{
+    color: chocolate;
+}
+
+a:active{
+    color: chocolate;
+}
+
+#h4{
+    font-family: 'Black Ops One', cursive;
+    backdrop-filter: blur(5px);
+    background-color: rgba(5, 5, 201, 0.61);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 0;
+    height: 50px;
+}
+
+#link{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    backdrop-filter: blur(5px);
+    background-color: rgba(5, 5, 201, 0.61);
+    color:rgb(255, 255, 255);
+    width: 30%;
+    align-items: center;
+    margin-right: 35%;
+    margin-left: 35%;
+}
+
+body{
+    background-image: url(bradley-dunn-i2ucvQyuX4M-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#hoveddel{
+    align-items: center;
+    
+}
+.img{
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    height: auto;
+}
+
+.tekst{
+    font-family: 'Inconsolata', monospace;
+    backdrop-filter: blur(5px);
+    background-color: rgba(255, 255, 255, 0.466);
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.sitat{
+    font-family: 'Inconsolata', monospace;
+    backdrop-filter: blur(5px);
+    background-color: rgba(255, 255, 255, 0.466);
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
